@@ -1,7 +1,10 @@
 3.0.0.507
-1004
+1007
 1000,index.htm,0,ホーム ページ,0,1627413494,1
 vti_globalpage:BW|true
 1001,interest.htm,0,趣味,1000,1627413494,0
 1002,photo.htm,0,フォト アルバム,1000,1627413494,0
 1003,favorite.htm,0,お気に入り,1000,1627413494,0
+1004,project.htm,0,個人プロジェクト,1000,1627599591,0
+1005,project/project01.htm,0,Webサイト「Chimo.club」,1004,1627599656,0
+1006,project/project02.htm,0,Webサイト「ClassicBlog」,1004,1627599673,0
