@@ -4,7 +4,7 @@ vti_dependenciesood:IR|0
 vti_webservertype:SR|diskweb
 vti_categories:VR|出張 経費報告 ビジネス 競合製品 ゴール/目標 アイデア その他 準備中 VIP 進行中 プラン スケジュール
 vti_navbuttonnextlabel:SR|進む
-vti_themedefault:SR|zero 1111
+vti_themedefault:SR|tabs 1111
 vti_textindexood:IR|1
 vti_approvallevels:VR|内容のレビュー 法務のレビュー コードのレビュー 管理者のレビュー
 vti_timecreated:TR|27 Jul 2021 19:31:49 -0000
@@ -14,9 +14,9 @@ vti_borderdefault:SR|tlrb
 vti_longfilenames:IX|1
 vti_welcomenames:VX|index.htm index.html default.htm default.html welcome.htm welcome.html home.htm home.html
 vti_oldestcompatibleversion:SR|2.0.0.0
-vti_structfrom_localhost\\c\:\\users\\mizor\\documents\\my webs/c\:/users/mizor/documents/my webs:TR|29 Jul 2021 23:01:13 -0000
+vti_structfrom_localhost\\c\:\\users\\mizor\\documents\\my webs/c\:/users/mizor/documents/my webs:TR|31 Jul 2021 03:32:21 -0000
 vti_restartmanual:IX|0
-vti_defaultcharset:SR|shift_jis
+vti_defaultcharset:SR|utf-8
 vti_defaultlanguage:SR|ja
 vti_publishmetainfokeys:VR|vti_assignedto vti_approvallevel vti_categories vti_description
 vti_hassearchbot:BR|false
